@@ -1,0 +1,120 @@
+h1{
+    color: darkgoldenrod;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 1px 2px 3px green;
+    text-shadow: 2px 2px rgba(75, 253, 84, 0.884); 
+}
+nav{
+    background-color: black;
+    padding: 20px;
+    margin-top: -10px;
+    border-radius: 5px;
+    box-shadow:1px 2px 3px gray;
+}
+h5{
+    text-align: center;
+    width: 10px;
+}
+.nav{
+    float: right;
+    margin-top: -8px;
+    
+}
+.log{
+    background-color: black;
+    color: white;
+    border: 1px double white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.account{
+    background-color: black;
+    color: white;
+    border: 1px double white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.search{
+    border-radius: 3px;
+    margin-top:10px;
+    width: 40%;
+    height: 30px;
+}
+::placeholder{
+    color: darkgoldenrod;
+    text-shadow: 2px 2px rgba(75, 253, 84, 0.884);
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: monospace;
+    opacity: 0.7;
+}
+.section1{
+    text-align: center;
+    width: 18%;      
+    float:left;     
+    border:1px solid gray;   
+    
+}
+.section2{
+    width: 80%;        
+    float:right;  
+    border: 1px dotted grey;    
+     
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.news{
+    color: darkgoldenrod;
+    text-shadow: 2px 2px rgba(75, 253, 84, 0.884); 
+}
+.catalogue{
+    color: darkgoldenrod;
+    text-shadow: 2px 2px rgba(75, 253, 84, 0.884);
+}
+.image{
+    height: 70px;
+    width: 7opx;
+    border-radius: 10%;
+}
+.music{
+    width:43.5%;  
+    float:left; 
+    border: 1px solid grey;
+    box-shadow: 1px 2px 3px green;
+}
+.download{
+    width:20%;   
+    float:left;
+    border: 1px solid grey;
+    box-shadow: 1px 2px 3px green;
+    /* border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px; */
+}
+.download2{
+    width:35%;   
+    float:right; 
+    border: 1px solid grey;
+    box-shadow: 1px 2px 3px green;
+    /* border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px; */
+    margin-right: 10px;
+}
+.display{
+    float: left;
+    width: 30%;
+    background-color: honeydew;
+}
+.content{
+    float: right;
+    width: 68%;
+    /* padding-left: 10px; */
+}
+.tonkin{
+    padding-top:10px;
+}
+.container{
+    padding-bottom: 39%;
+}
